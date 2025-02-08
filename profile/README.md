@@ -1,12 +1,7 @@
-## Hi there 👋
+## EmbeddedML-Benchmark
 
-<!--
+The **EmbeddedML-Benchmark** organization is dedicated to advancing the field of embedded machine learning by providing comprehensive benchmarks and resources for evaluating the performance of machine learning models on embedded devices. Our mission is to facilitate the development and deployment of efficient, high-performing machine learning solutions tailored for resource-constrained environments.
 
-**Here are some ideas to get you started:**
+For more information about our projects, resources, and ongoing initiatives, please visit our official website:
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+[EmbeddedML-Benchmark.github.io](https://EmbeddedML-Benchmark.github.io). 
